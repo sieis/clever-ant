@@ -354,7 +354,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     template: blog_feed_section
-    title: What's New
+    title: Blog if needed
     actions:
       - type: action
         template: action
