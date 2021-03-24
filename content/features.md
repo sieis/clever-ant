@@ -3,7 +3,7 @@ title: Course
 sections:
   - type: hero_section
     template: hero_section
-    title: Explore Features
+    title: Course Information
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
