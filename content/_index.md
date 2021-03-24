@@ -383,7 +383,7 @@ sections:
       - type: action
         template: action
         label: Register
-        url: /pricing
+        url: 'https://ultrasignup.com/register.aspx?did=31286'
         style: primary
     actions_position: bottom
     align: center
