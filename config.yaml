@@ -50,7 +50,7 @@ params:
       - type: action
         template: action
         label: About
-        url: /about
+        url: /course
         style: link
       - type: action
         template: action
