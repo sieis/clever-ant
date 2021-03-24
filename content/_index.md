@@ -103,7 +103,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: 2020 Runner's Manual
             url: /style-guide
             style: primary
             has_icon: true
