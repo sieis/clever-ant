@@ -418,7 +418,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit DIY Theme
+  title: UltraRunning Site Template
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
