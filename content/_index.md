@@ -49,7 +49,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-4.svg
+        image: /images/trailrunner.png
         image_alt: Sanity logo
         image_align: center
       - type: grid_item
