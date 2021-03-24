@@ -27,26 +27,36 @@ sections:
       - type: feature
         template: feature
         title: Packet Pickup & Race Start
-        content: |
+        content: >
           Packet Pick Up and Bib # Pick Up/ Crew vehicle display card pickup.
 
 
           Crew cars Must have Display Card and One Per runner.
 
 
-          Drop Bag drop off. Drop bags are accepted here only. 
+          Drop Bag drop off. Drop bags are accepted here only.
 
-          3:00pm – 7:00pm CST
+
+          **3:00pm – 7:00pm CST**
 
 
           Sylaward Trail Head (Lake Howard) – Sylacauga AL
+
           Located at the end of Boat Dock Lane (just google Boat Dock Lane,
+
           Sylacauga AL – gps coordinates may take you to the wrong location)
 
+
           Buses will depart Sylaward Trail Head (Lake Howard) 4:45am
+
           sharp. Parking attendants will be present
 
-          7:00am CST - RACE START - Daylight Start - No Headlamps
+
+          **7:00am CST - RACE START - Daylight Start - No Headlamps**
+
+
+          **Starting Line is at Pine Glen Campground:
+          **https://www.google.com/maps/place/Pine+Glen+Campground/@33.7245237,-85.6030507,15z/data=!4m2!3m1!1s0x0:0x209704e0d7fd8740?sa=X\&ved=2ahUKEwj73N2AjcnvAhWwRjABHaflDh8Q_BIwEnoECBwQBQ
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
