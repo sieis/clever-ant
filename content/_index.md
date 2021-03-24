@@ -140,8 +140,9 @@ sections:
       - type: feature
         template: feature
         title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          “Although not a first timer course, many 100 mile virgins come to
+          complete each year...We and all the awesome volunteers are here to
+          help you reach your goal to the finish line!”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
