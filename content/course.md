@@ -220,7 +220,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Compare Plans
+        label: Register
         url: /pricing
         style: primary
     actions_position: right
