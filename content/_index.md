@@ -382,7 +382,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Button
+        label: Register
         url: /pricing
         style: primary
     actions_position: bottom
