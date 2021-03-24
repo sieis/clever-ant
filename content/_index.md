@@ -104,7 +104,8 @@ sections:
           - type: action
             template: action
             label: 2020 Runner's Manual
-            url: /style-guide
+            url: >-
+              http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/2020_runners_manualpdf.pdf
             style: primary
             has_icon: true
             icon: arrow-right
