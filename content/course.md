@@ -215,7 +215,8 @@ sections:
   - type: cta_section
     template: cta_section
     title: Register Now
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Pinhoti fills up every year!
     actions:
       - type: action
         template: action
