@@ -117,10 +117,8 @@ sections:
       - type: feature
         template: feature
         title: Course & Lodging
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Course information including Description, Maps and Aid Station info.
         actions:
           - type: action
             template: action
