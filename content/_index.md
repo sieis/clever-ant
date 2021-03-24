@@ -69,7 +69,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-8.svg
+        image: /images/birmgbuts.png
         image_alt: Git logo
         image_align: center
     grid_cols: four
