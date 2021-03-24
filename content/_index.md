@@ -378,7 +378,7 @@ sections:
     background_color: none
   - type: cta_section
     template: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Register Now!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
