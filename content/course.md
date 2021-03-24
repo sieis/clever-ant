@@ -45,9 +45,9 @@ sections:
 
           **7:00am CST - RACE START - Daylight Start - No Headlamps**
 
-          **Starting Line is at Pine Glen Campground:** 
+          **Starting Line is at Pine Glen Campground:**
 
-           https://www.google.com/maps/place/Pine+Glen+Campground/@33.7245237,-85.6030507,15z/data=!4m2!3m1!1s0x0:0x209704e0d7fd8740?sa=X\&ved=2ahUKEwj73N2AjcnvAhWwRjABHaflDh8Q_BIwEnoECBwQBQ
+          https://goo.gl/maps/AXe77Apqo17wUCSH9
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
