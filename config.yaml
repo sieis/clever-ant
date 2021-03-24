@@ -19,11 +19,6 @@ params:
         label: Course
         url: /course
         style: link
-      - type: action
-        template: action
-        label: About
-        url: /about
-        style: link
     has_secondary_nav: true
     secondary_nav_links:
       - type: action
