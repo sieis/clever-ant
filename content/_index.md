@@ -78,7 +78,6 @@ sections:
   - type: features_section
     template: features_section
     title: Course Information
-    subtitle: Features Section Example
     features:
       - type: feature
         template: feature
