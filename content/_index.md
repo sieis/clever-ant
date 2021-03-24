@@ -310,20 +310,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: cta_section
-    template: cta_section
-    title: Register Now!
-    actions:
-      - type: action
-        template: action
-        label: Register
-        url: 'https://ultrasignup.com/register.aspx?did=31286'
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
