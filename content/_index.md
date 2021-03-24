@@ -39,7 +39,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-2.svg
+        image: /images/coros.png
         image_alt: Netlify logo
         image_align: center
       - type: grid_item
