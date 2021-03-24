@@ -132,7 +132,7 @@ sections:
           - type: action
             template: action
             label: Register
-            url: /style-guide
+            url: 'https://ultrasignup.com/register.aspx?did=31286'
             style: primary
             has_icon: false
             icon: arrow-right
