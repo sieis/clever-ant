@@ -24,26 +24,6 @@ sections:
         media_position: left
         media_width: fifty
         image: /images/travel.png
-      - type: feature
-        template: feature
-        title: Race Starting Line
-        content: |
-          Buses will depart Sylaward Trail Head (Lake Howard) 4:45am
-          sharp. Parking attendants will be present
-
-          **7:00am CST - RACE START - Daylight Start - No Headlamps**
-
-          **Starting Line is at Pine Glen Campground:**
-
-          https://goo.gl/maps/AXe77Apqo17wUCSH9
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
-        video_embed_html: >-
-          <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13273.591902436157!2d-85.6030507!3d33.7245237!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x209704e0d7fd8740!2sPine%20Glen%20Campground!5e0!3m2!1sen!2sus!4v1616594864014!5m2!1sen!2sus"
-          width="600" height="450" style="border:0;" allowfullscreen=""
-          loading="lazy"></iframe>
       - title: Packet Pickup
         content: |
           3:00pm – 7:00pm CST
@@ -70,6 +50,26 @@ sections:
         media_width: fifty
         align: left
         type: feature
+      - type: feature
+        template: feature
+        title: Race Starting Line
+        content: |
+          Buses will depart Sylaward Trail Head (Lake Howard) 4:45am
+          sharp. Parking attendants will be present
+
+          **7:00am CST - RACE START - Daylight Start - No Headlamps**
+
+          **Starting Line is at Pine Glen Campground:**
+
+          https://goo.gl/maps/AXe77Apqo17wUCSH9
+        image_alt: Happy co-workers
+        media_position: right
+        media_width: fifty
+        video_embed_html: >-
+          <iframe
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13273.591902436157!2d-85.6030507!3d33.7245237!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x209704e0d7fd8740!2sPine%20Glen%20Campground!5e0!3m2!1sen!2sus!4v1616594864014!5m2!1sen!2sus"
+          width="600" height="450" style="border:0;" allowfullscreen=""
+          loading="lazy"></iframe>
   - type: grid_section
     template: grid_section
     title: Quick Links
