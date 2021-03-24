@@ -45,7 +45,7 @@ params:
     logo: /images/perpetual-mahogany.png
     logo_alt: DIY logo
     has_primary_nav: true
-    primary_nav_title: Company
+    primary_nav_title: Pinhoti 100
     primary_nav_links:
       - type: action
         template: action
