@@ -58,7 +58,8 @@ sections:
           - type: action
             template: action
             label: Course Description
-            url: /style-guide
+            url: >-
+              http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/course_description_2020.pdf
             style: primary
             has_icon: false
             icon: arrow-right
