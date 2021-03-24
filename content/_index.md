@@ -84,11 +84,6 @@ sections:
         title: Runners' Manual
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >
-          The 2021 Manual will be updated but will be very much the same as
-          2020.
-
-
-
           Please note the Runner Manual is subject to change and we will notify
           all registered runners of any changes made.
 
