@@ -121,7 +121,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /style-guide
+            url: /course
             style: primary
             has_icon: true
             icon: arrow-right
