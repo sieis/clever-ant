@@ -10,7 +10,7 @@ sections:
       - type: action
         template: action
         label: Register
-        url: /pricing
+        url: 'https://ultrasignup.com/register.aspx?did=81711'
         style: primary
       - type: action
         template: action
