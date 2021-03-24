@@ -57,7 +57,6 @@ sections:
           width="600" height="450" style="border:0;" allowfullscreen=""
           loading="lazy"></iframe>
       - title: Packet Pickup
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
