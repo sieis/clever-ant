@@ -247,7 +247,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
