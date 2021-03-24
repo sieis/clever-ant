@@ -302,7 +302,7 @@ sections:
       - type: action
         template: action
         label: Register
-        url: /features
+        url: 'https://ultrasignup.com/register.aspx?did=31286'
         style: secondary
     actions_position: right
     actions_width: fourty
