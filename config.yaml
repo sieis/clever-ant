@@ -29,7 +29,7 @@ params:
       - type: action
         template: action
         label: Get Started
-        url: /pricing
+        url: 'https://ultrasignup.com/register.aspx?did=31286'
         style: primary
     has_anncmnt: true
     anncmnt_content: >-
