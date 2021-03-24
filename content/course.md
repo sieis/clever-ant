@@ -46,7 +46,7 @@ sections:
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13354.078570602958!2d-86.1832050755118!3d33.200470625992494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x888bfcb4e6f89369%3A0x97a1ae888c0896b0!2sSylaward%20Trail%20at%20Lake%20Howard!5e0!3m2!1sen!2sus!4v1616595068395!5m2!1sen!2sus"
           width="600" height="450" style="border:0;" allowfullscreen=""
           loading="lazy"></iframe>
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
