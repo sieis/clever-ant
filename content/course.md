@@ -13,7 +13,7 @@ sections:
         title: Lodging
         subtitle: 'No camping near the Sylacauga area. '
         content: "​Sylaward Trail Head – (Lake Howard)\_– at the end of Boad Dock Lane. Tent and RV camping. No rev needed. Primitive, so there is no water or elec hook up. $5 per night which will paid directly to Billy Beane (Lake Howard Sup)\n\nThe Host Hotel is the\_Quality Inn (Formerly Jameson Inn) of Sylacauga: 89 Gene Stewart Blvd, Sylacauga Al 35151. 256-245-4141 They are offering a discounted rate for race weekend. They have 62 rooms and will fill fast.\n\nHoliday Inn Express of Sylacauga\_– 40743 US 280, Sylacauga AL 35150- 256-207-1511\n\nSylacauga Parks and Recreation Dept\_will have rooms available to sleep male and female separately Friday night. $10 each and payable when you arrive. Plenty of room so no need to reserve. There will be room for you. Arrive no later than 8pm. Showers are available. Bring a sleeping bag and blow up mattress of some kind.\n\nCamping is available in the Choccolocco Wildlife Mgt Area within the Talladega National Forest. Pine Glen Camp which is location of race start. This is a primitive camp. No showers. Restrooms are available. The only vehicles that are allowed here are the ones that camp or race organizers.\n\nColeman Lake Campground is located only about 6 miles from Pine Glen and has full hook up camping facilities. Bath house with hot showers.\_\\*\\*[**http://www.forestcamping.com/dow/southern/tallcmp.htm**](http://www.forestcamping.com/dow/southern/tallcmp.htm)**\n"
-        image: images/about-3.jpg
+        image: /images/camp pic.png
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
