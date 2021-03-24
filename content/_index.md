@@ -419,7 +419,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: UltraRunning Site Template
-  description: The preview of the DIY theme
+  description: 'Fast, secure and modern sites for ultramarathon race directors.'
   extra:
     - name: 'og:type'
       value: website
