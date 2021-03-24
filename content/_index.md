@@ -81,7 +81,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: The Big Title For the Feature
+        title: Runners' Manual
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
