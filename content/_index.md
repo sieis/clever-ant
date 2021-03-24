@@ -15,7 +15,7 @@ sections:
       - type: action
         template: action
         label: Learn More
-        url: /features
+        url: /course
         style: secondary
     image: /images/pinhoti-cover2.png
     image_alt: Hero section placeholder image
