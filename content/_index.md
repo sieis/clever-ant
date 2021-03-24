@@ -9,7 +9,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Try Free
+        label: Register
         url: /pricing
         style: primary
       - type: action
