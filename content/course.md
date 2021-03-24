@@ -26,7 +26,7 @@ sections:
         image: /images/travel.png
       - type: feature
         template: feature
-        title: Packet Pickup & Race Start
+        title: Race Starting Line
         content: |
           Packet Pick Up and Bib # Pick Up/ Crew vehicle display card pickup.
 
