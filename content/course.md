@@ -20,10 +20,7 @@ sections:
       - type: feature
         template: feature
         title: Additional lodging near Heflin
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "1.  Cahulga Creek Park\_[343 Mountain Street, Heflin, AL](https://www.google.com/maps/search/343+Mountain+Street,+Heflin,+AL?entry=gmail\\&source=g)\_ - Permit required, but FREE primitive camping for Pinhoti 100 racers - no shower, but public restroom - Call City Clerk Shane Smith at 256-463-2290 for permit\n\n2.  America’s Best Value Inn -\_[1957 Almon Street, Heflin, AL](https://www.google.com/maps/search/1957+Almon+Street,+Heflin,+AL?entry=gmail\\&source=g)\_ - 256-463-2900 Call for Pinhoti 100 Discount\n\n3.  Southern Brew Trading Company - Heflin, AL\_ - Primitive Camping Available in downtown Heflin - Call Kenny at 1-561-670-4660\n\n4.  Cane 9 Creek RV Park -\_[5002 Highway 46, Heflin, AL](https://www.google.com/maps/search/5002+Highway+46,+Heflin,+AL?entry=gmail\\&source=g)\_ RV Park with full hookups Phone 256-463-2602\n\n5.  Georgia - Bama RV Park\_\_[2196 Almon Street, Heflin, AL](https://www.google.com/maps/search/2196+Almon+Street,+Heflin,+AL?entry=gmail\\&source=g)\_ RV Park with Full hookups, restaurant on site - 256-453-1561\n"
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
