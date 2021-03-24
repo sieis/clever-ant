@@ -59,7 +59,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-6.svg
+        image: /images/huntsville-track.png
         image_alt: Next.js logo
         image_align: center
       - type: grid_item
