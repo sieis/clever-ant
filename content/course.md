@@ -82,7 +82,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: Aid Station Chart
             url: >-
               https://docs.google.com/document/d/1ZjGNlKQerElo0w3JRv7G8qV0ZlX80MKnxdavoFuVX7Y/edit
             style: primary
