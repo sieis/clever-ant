@@ -24,7 +24,7 @@ params:
       - type: action
         template: action
         label: Contact
-        url: 'mailto:'
+        url: 'mailto:Pinhoti100@gmail.com'
         style: link
       - type: action
         template: action
