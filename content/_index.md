@@ -44,7 +44,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-3.svg
+        image: /images/COGS.png
         image_alt: Gatsby logo
         image_align: center
       - type: grid_item
