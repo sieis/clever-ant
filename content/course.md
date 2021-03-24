@@ -43,7 +43,6 @@ sections:
   - type: grid_section
     template: grid_section
     title: Quick Links
-    subtitle: Grid Section Example
     grid_items:
       - type: grid_item
         template: grid_item
