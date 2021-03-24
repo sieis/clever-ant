@@ -143,7 +143,7 @@ sections:
           “Although not a first timer course, many 100 mile virgins come to
           complete each year...We and all the awesome volunteers are here to
           help you reach your goal to the finish line!”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Todd Henderson, Race Director'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
