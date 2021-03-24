@@ -17,7 +17,7 @@ params:
       - type: action
         template: action
         label: Course
-        url: /features
+        url: /course
         style: link
       - type: action
         template: action
