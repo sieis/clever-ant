@@ -48,7 +48,6 @@ sections:
           **Starting Line is at Pine Glen Campground:**
 
           https://goo.gl/maps/AXe77Apqo17wUCSH9
-        image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
