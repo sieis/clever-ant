@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Course
 sections:
   - type: hero_section
     template: hero_section
