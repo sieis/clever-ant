@@ -26,7 +26,7 @@ sections:
         image: /images/travel.png
       - type: feature
         template: feature
-        title: Section Title Three
+        title: Packet Pickup & Race Start
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
