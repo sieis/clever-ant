@@ -24,7 +24,7 @@ params:
       - type: action
         template: action
         label: Contact
-        url: /contact
+        url: 'mailto:'
         style: link
       - type: action
         template: action
