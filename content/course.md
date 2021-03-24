@@ -51,6 +51,11 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13273.591902436157!2d-85.6030507!3d33.7245237!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x209704e0d7fd8740!2sPine%20Glen%20Campground!5e0!3m2!1sen!2sus!4v1616594864014!5m2!1sen!2sus"
+          width="400" height="300" style="border:0;" allowfullscreen=""
+          loading="lazy"></iframe>
   - type: grid_section
     template: grid_section
     title: Quick Links
