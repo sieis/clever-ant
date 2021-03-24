@@ -60,7 +60,7 @@ sections:
             label: Course Description
             url: >-
               http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/course_description_2020.pdf
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-right
             icon_position: center
