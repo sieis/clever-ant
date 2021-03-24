@@ -131,7 +131,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: Register
             url: /style-guide
             style: primary
             has_icon: false
