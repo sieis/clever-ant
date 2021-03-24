@@ -144,7 +144,7 @@ sections:
           complete each year...We and all the awesome volunteers are here to
           help you reach your goal to the finish line!”
         subtitle: 'Todd Henderson, Race Director'
-        image: images/brandon-guidelines.png
+        image: /images/todd.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
