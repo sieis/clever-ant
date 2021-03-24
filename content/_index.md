@@ -54,7 +54,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-5.svg
+        image: /images/ultraspire.png
         image_alt: DatoCMS logo
         image_align: center
       - type: grid_item
