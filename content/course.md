@@ -85,7 +85,7 @@ sections:
             label: Aid Station Chart
             url: >-
               https://docs.google.com/document/d/1ZjGNlKQerElo0w3JRv7G8qV0ZlX80MKnxdavoFuVX7Y/edit
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-right
             icon_position: center
