@@ -45,17 +45,20 @@ sections:
           width="600" height="450" style="border:0;" allowfullscreen=""
           loading="lazy"></iframe>
       - title: Packet Pickup
-        content: >-
-          ## Lorem ipsum
+        content: |
+          3:00pm – 7:00pm CST
 
+          Packet Pick Up and Bib # Pick Up/ Crew vehicle display card pickup.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Crew cars Must have Display Card and One Per runner.
 
+          Drop Bag drop off. Drop bags are accepted here only.
 
-          - Lorem ipsum
+          Sylaward Trail Head (Lake Howard) – Sylacauga AL
+          Located at the end of Boat Dock Lane (just google Boat Dock Lane,
+          Sylacauga AL: 
 
-          - dolor sit amet
+          https://goo.gl/maps/u9T1WK2phjAEB4VF7
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
