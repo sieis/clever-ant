@@ -301,7 +301,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: Register
         url: /features
         style: secondary
     actions_position: right
