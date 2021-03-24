@@ -115,8 +115,9 @@ sections:
       - type: feature
         template: feature
         title: Course & Lodging
-        content: |
-          Course information including Description, Maps and Aid Station info.
+        content: >
+          All course information including Description, Directions, Maps and Aid
+          Station info.
         actions:
           - type: action
             template: action
