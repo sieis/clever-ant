@@ -77,7 +77,7 @@ sections:
     align: center
   - type: features_section
     template: features_section
-    title: Features Section
+    title: Course Information
     subtitle: Features Section Example
     features:
       - type: feature
