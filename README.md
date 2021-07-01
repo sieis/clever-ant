@@ -1,10 +1,10 @@
-# ✨ Pinhoti 100 ✨
+# ✨ Pinhoti 100 Sample Site ✨
 
 <img src="https://github.com/sieis/pinhoti100/blob/master/static/images/pinhoti-cover2.png?raw=true" width="600">
 
-This is a [Hugo](https://gohugo.io) site using [Forestry](https://forestry.io) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
-
 [View live site here](https://pinhoti100.netlify.app/)
+
+This is a [Hugo](https://gohugo.io) site using [Forestry](https://forestry.io) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/diy-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
